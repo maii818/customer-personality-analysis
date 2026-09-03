@@ -63,13 +63,13 @@ Python · pandas · NumPy · scikit-learn · scikit-learn-extra (K-Medoids) · s
 
 This project was developed collaboratively by a team of 7 as part of a Data Mining course:
 
-- Maii Walid
-- Hamsa Ehab
-- Hla Essam
-- Nourhan Essam
-- Menna Emad
-- Malak Ashraf
-- Farah Ibrahim
+* [Maii Walid](https://github.com/maii818)
+* [Hamsa Ehab](https://github.com/hamsa77788)
+* [Hla Essam](https://github.com/hlaessam504)
+* [Nourhan Essam](https://github.com/nourhanessam4)
+* [Menna Emad](https://github.com/menna0602)
+* [Malak Ashraf](https://github.com/MalakAshrafRezk)
+* [Farah Ibrahim](https://github.com/Farah-Ibrahim1405)
 
 ## Skills Demonstrated
 
